@@ -6,6 +6,7 @@
 //
 
 import Foundation
+import Observation
 
 // ToDoリスト項目
 // @Observableクラスで配列を@Observableにする場合は要素にも@Observableが必要
